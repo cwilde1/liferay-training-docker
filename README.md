@@ -15,7 +15,7 @@ To deploy modules, copy them into the deploy folder,which is mapped to the %LIFE
 To access the MySQL database running in Docker, use:
 
 ```
-docker exec -it liferay2023q310-mysql mysql -u root -p
+docker exec -it mysql mysql -u root -p
 ```
 
 Default credentials are:
