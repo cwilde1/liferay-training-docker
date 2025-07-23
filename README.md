@@ -6,7 +6,9 @@ Run the following command in the project root to start the Liferay and MySQL con
 
 ```
 docker-compose up -d
-``` 
+```
+After both containers have started, go to localhost:8080 to access liferay.
+
 ### Access MySQL
 
 To access the MySQL database running in Docker, use:
