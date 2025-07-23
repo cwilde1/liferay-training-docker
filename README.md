@@ -22,7 +22,7 @@ Default credentials are:
 - User: root
 - Password: root
 
-## to browse files in the Containers
+## Browse files in the Container
 
 Run this from a windows command prompt.
 Once inside, you can manage files. 
